@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebFormsApplication1", "AspNetWebFormsApplication1\AspNetWebFormsApplication1.csproj", "{9B2DB68D-D251-4EB0-AFBF-FB7DA834D037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebFormsApplication1.Tests", "AspNetWebFormsApplication1.Tests\AspNetWebFormsApplication1.Tests.csproj", "{2D0FA7E0-7F53-4E42-B689-00158602D503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2DB68D-D251-4EB0-AFBF-FB7DA834D037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2DB68D-D251-4EB0-AFBF-FB7DA834D037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2DB68D-D251-4EB0-AFBF-FB7DA834D037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2DB68D-D251-4EB0-AFBF-FB7DA834D037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0FA7E0-7F53-4E42-B689-00158602D503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0FA7E0-7F53-4E42-B689-00158602D503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0FA7E0-7F53-4E42-B689-00158602D503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0FA7E0-7F53-4E42-B689-00158602D503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7896C933-8365-40A0-A833-2B5D31E9EA8D}
+	EndGlobalSection
+EndGlobal
